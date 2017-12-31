@@ -1,0 +1,2932 @@
+fileFormatVersion: 2
+guid: bbba970304bb6804cbb3a32ae5f56995
+timeCreated: 1511312088
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pillodium_0
+    21300002: Pillodium_1
+    21300004: Pillodium_2
+    21300006: Pillodium_3
+    21300008: Pillodium_4
+    21300010: Pillodium_5
+    21300012: Pillodium_6
+    21300014: Pillodium_7
+    21300016: Pillodium_8
+    21300018: Pillodium_9
+    21300020: Pillodium_10
+    21300022: Pillodium_11
+    21300024: Pillodium_12
+    21300026: Pillodium_13
+    21300028: Pillodium_14
+    21300030: Pillodium_15
+    21300032: Pillodium_16
+    21300034: Pillodium_17
+    21300036: Pillodium_18
+    21300038: Pillodium_19
+    21300040: Pillodium_20
+    21300042: Pillodium_21
+    21300044: Pillodium_22
+    21300046: Pillodium_23
+    21300048: Pillodium_24
+    21300050: Pillodium_25
+    21300052: Pillodium_26
+    21300054: Pillodium_27
+    21300056: Pillodium_28
+    21300058: Pillodium_29
+    21300060: Pillodium_30
+    21300062: Pillodium_31
+    21300064: Pillodium_32
+    21300066: Pillodium_33
+    21300068: Pillodium_34
+    21300070: Pillodium_35
+    21300072: Pillodium_36
+    21300074: Pillodium_37
+    21300076: Pillodium_38
+    21300078: Pillodium_39
+    21300080: Pillodium_40
+    21300082: Pillodium_41
+    21300084: Pillodium_42
+    21300086: Pillodium_43
+    21300088: Pillodium_44
+    21300090: Pillodium_45
+    21300092: Pillodium_46
+    21300094: Pillodium_47
+    21300096: Pillodium_48
+    21300098: Pillodium_49
+    21300100: Pillodium_50
+    21300102: Pillodium_51
+    21300104: Pillodium_52
+    21300106: Pillodium_53
+    21300108: Pillodium_54
+    21300110: Pillodium_55
+    21300112: Pillodium_56
+    21300114: Pillodium_57
+    21300116: Pillodium_58
+    21300118: Pillodium_59
+    21300120: Pillodium_60
+    21300122: Pillodium_61
+    21300124: Pillodium_62
+    21300126: Pillodium_63
+    21300128: Pillodium_64
+    21300130: Pillodium_65
+    21300132: Pillodium_66
+    21300134: Pillodium_67
+    21300136: Pillodium_68
+    21300138: Pillodium_69
+    21300140: Pillodium_70
+    21300142: Pillodium_71
+    21300144: Pillodium_72
+    21300146: Pillodium_73
+    21300148: Pillodium_74
+    21300150: Pillodium_75
+    21300152: Pillodium_76
+    21300154: Pillodium_77
+    21300156: Pillodium_78
+    21300158: Pillodium_79
+    21300160: Pillodium_80
+    21300162: Pillodium_81
+    21300164: Pillodium_82
+    21300166: Pillodium_83
+    21300168: Pillodium_84
+    21300170: Pillodium_85
+    21300172: Pillodium_86
+    21300174: Pillodium_87
+    21300176: Pillodium_88
+    21300178: Pillodium_89
+    21300180: Pillodium_90
+    21300182: Pillodium_91
+    21300184: Pillodium_92
+    21300186: Pillodium_93
+    21300188: Pillodium_94
+    21300190: Pillodium_95
+    21300192: Pillodium_96
+    21300194: Pillodium_97
+    21300196: Pillodium_98
+    21300198: Pillodium_99
+    21300200: Pillodium_100
+    21300202: Pillodium_101
+    21300204: Pillodium_102
+    21300206: Pillodium_103
+    21300208: Pillodium_104
+    21300210: Pillodium_105
+    21300212: Pillodium_106
+    21300214: Pillodium_107
+    21300216: Pillodium_108
+    21300218: Pillodium_109
+    21300220: Pillodium_110
+    21300222: Pillodium_111
+    21300224: Pillodium_112
+    21300226: Pillodium_113
+    21300228: Pillodium_114
+    21300230: Pillodium_115
+    21300232: Pillodium_116
+    21300234: Pillodium_117
+    21300236: Pillodium_118
+    21300238: Pillodium_119
+    21300240: Pillodium_120
+    21300242: Pillodium_121
+    21300244: Pillodium_122
+    21300246: Pillodium_123
+    21300248: Pillodium_124
+    21300250: Pillodium_125
+    21300252: Pillodium_126
+    21300254: Pillodium_127
+    21300256: Pillodium_128
+    21300258: Pillodium_129
+    21300260: Pillodium_130
+    21300262: Pillodium_131
+    21300264: Pillodium_132
+    21300266: Pillodium_133
+    21300268: Pillodium_134
+    21300270: Pillodium_135
+    21300272: Pillodium_136
+    21300274: Pillodium_137
+    21300276: Pillodium_138
+    21300278: Pillodium_139
+    21300280: Pillodium_140
+    21300282: Pillodium_141
+    21300284: Pillodium_142
+    21300286: Pillodium_143
+    21300288: Pillodium_144
+    21300290: Pillodium_145
+    21300292: Pillodium_146
+    21300294: Pillodium_147
+    21300296: Pillodium_148
+    21300298: Pillodium_149
+    21300300: Pillodium_150
+    21300302: Pillodium_151
+    21300304: Pillodium_152
+    21300306: Pillodium_153
+    21300308: Pillodium_154
+    21300310: Pillodium_155
+    21300312: Pillodium_156
+    21300314: Pillodium_157
+    21300316: Pillodium_158
+    21300318: Pillodium_159
+    21300320: Pillodium_160
+    21300322: Pillodium_161
+    21300324: Pillodium_162
+    21300326: Pillodium_163
+    21300328: Pillodium_164
+    21300330: Pillodium_165
+    21300332: Pillodium_166
+    21300334: Pillodium_167
+    21300336: Pillodium_168
+    21300338: Pillodium_169
+    21300340: Pillodium_170
+    21300342: Pillodium_171
+    21300344: Pillodium_172
+    21300346: Pillodium_173
+    21300348: Pillodium_174
+    21300350: Pillodium_175
+    21300352: Pillodium_176
+    21300354: Pillodium_177
+    21300356: Pillodium_178
+    21300358: Pillodium_179
+    21300360: Pillodium_180
+    21300362: Pillodium_181
+    21300364: Pillodium_182
+    21300366: Pillodium_183
+    21300368: Pillodium_184
+    21300370: Pillodium_185
+    21300372: Pillodium_186
+    21300374: Pillodium_187
+    21300376: Pillodium_188
+    21300378: Pillodium_189
+    21300380: Pillodium_190
+    21300382: Pillodium_191
+    21300384: Pillodium_192
+    21300386: Pillodium_193
+    21300388: Pillodium_194
+    21300390: Pillodium_195
+    21300392: Pillodium_196
+    21300394: Pillodium_197
+    21300396: Pillodium_198
+    21300398: Pillodium_199
+    21300400: Pillodium_200
+    21300402: Pillodium_201
+    21300404: Pillodium_202
+    21300406: Pillodium_203
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillodium_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3774
+        width: 75
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3774
+        width: 73
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3774
+        width: 74
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3774
+        width: 74
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3774
+        width: 74
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3774
+        width: 75
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3774
+        width: 73
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_7
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3774
+        width: 75
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_8
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3774
+        width: 73
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_9
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3774
+        width: 74
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3774
+        width: 74
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3774
+        width: 74
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3635
+        width: 75
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3635
+        width: 73
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3635
+        width: 74
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3635
+        width: 74
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3459
+        width: 75
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3459
+        width: 80
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3459
+        width: 60
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3459
+        width: 72
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_20
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3459
+        width: 73
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_21
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3459
+        width: 71
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_22
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3459
+        width: 59
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_23
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3459
+        width: 80
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_24
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 3459
+        width: 74
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_25
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 3459
+        width: 88
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_26
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 3459
+        width: 111
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_27
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3459
+        width: 134
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3320
+        width: 151
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3320
+        width: 166
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3320
+        width: 168
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_31
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3320
+        width: 166
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3320
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 3320
+        width: 166
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_34
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3320
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_35
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3320
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_36
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3320
+        width: 166
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_37
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3320
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_38
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 3320
+        width: 166
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_39
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 3320
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3180
+        width: 165
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3180
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3180
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3180
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3180
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_45
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3180
+        width: 165
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_46
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3180
+        width: 165
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_47
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3180
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_48
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3180
+        width: 166
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_49
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3180
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_50
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3180
+        width: 165
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_51
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 3180
+        width: 165
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3039
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 3039
+        width: 166
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3039
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_57
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_58
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_59
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3039
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_60
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3039
+        width: 166
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_61
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3039
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_62
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_63
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 3039
+        width: 165
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2899
+        width: 165
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2899
+        width: 166
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_66
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2899
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_67
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2899
+        width: 166
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_68
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2899
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_69
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2899
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_70
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2899
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_71
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2899
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_72
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2899
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_73
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2899
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_74
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2899
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_75
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 2899
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2725
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_77
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2725
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2725
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_79
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2725
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_80
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2725
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_81
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2725
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_82
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2725
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_83
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2725
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2584
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2584
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_86
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2584
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_87
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2584
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_88
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2584
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_89
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2584
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_90
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2584
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_91
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2584
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2445
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2445
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2445
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_95
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2445
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_96
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2445
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_97
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2445
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_98
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2445
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_99
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2445
+        width: 162
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2305
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_101
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2305
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2305
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_103
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2305
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_104
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2305
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_105
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2305
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_106
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2305
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_107
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2305
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2164
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_109
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2164
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2164
+        width: 163
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_111
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2164
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_112
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2164
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_113
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2164
+        width: 164
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_114
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2164
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_115
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2164
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2024
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2024
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_118
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2024
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_119
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2024
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_120
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2024
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_121
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2024
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_122
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2024
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_123
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2024
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1885
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1885
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1885
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_127
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1885
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1885
+        width: 162
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_129
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1885
+        width: 164
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_130
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1885
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_131
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1885
+        width: 162
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1745
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_133
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1745
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_134
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1745
+        width: 163
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_135
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1745
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_136
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1745
+        width: 162
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_137
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1745
+        width: 164
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_138
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1745
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_139
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1745
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_140
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1604
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1604
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1604
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_143
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1604
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1465
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_145
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1465
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_146
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1465
+        width: 162
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_147
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1465
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1325
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1325
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_150
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1325
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_151
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1325
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1184
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_153
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1184
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_154
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1184
+        width: 162
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_155
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1184
+        width: 162
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1044
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_157
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1044
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_158
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1044
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_159
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1044
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_160
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1044
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_161
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1044
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_162
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1044
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_163
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1044
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_164
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1044
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_165
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1044
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_166
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1044
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_167
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1044
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 905
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_169
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 905
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_170
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 905
+        width: 162
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_171
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 905
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 765
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_173
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 765
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_174
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 765
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_175
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 765
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_177
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 624
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_178
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 624
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_179
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 624
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_180
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 484
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_181
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 484
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_182
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 484
+        width: 162
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_183
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 484
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_184
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_185
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 312
+        width: 117
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_186
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 73
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_187
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 312
+        width: 75
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_188
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 312
+        width: 74
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_189
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 312
+        width: 118
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_190
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 312
+        width: 153
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_191
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 312
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_192
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 312
+        width: 118
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_193
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 312
+        width: 73
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_194
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 312
+        width: 119
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_195
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 312
+        width: 163
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 161
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_197
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 175
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_198
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 175
+        width: 161
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_199
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 175
+        width: 163
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_200
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 175
+        width: 161
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_201
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 175
+        width: 164
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_202
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 175
+        width: 162
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pillodium_203
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 157
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

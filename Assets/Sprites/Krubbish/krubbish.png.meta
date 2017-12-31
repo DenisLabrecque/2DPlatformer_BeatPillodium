@@ -1,0 +1,5102 @@
+fileFormatVersion: 2
+guid: 7589d6dd691c7ae41a56f031d176623e
+timeCreated: 1511190826
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: krubbish_0
+    21300002: krubbish_1
+    21300004: krubbish_2
+    21300006: krubbish_3
+    21300008: krubbish_4
+    21300010: krubbish_5
+    21300012: krubbish_6
+    21300014: krubbish_7
+    21300016: krubbish_8
+    21300018: krubbish_9
+    21300020: krubbish_10
+    21300022: krubbish_11
+    21300024: krubbish_12
+    21300026: krubbish_13
+    21300028: krubbish_14
+    21300030: krubbish_15
+    21300032: krubbish_16
+    21300034: krubbish_17
+    21300036: krubbish_18
+    21300038: krubbish_19
+    21300040: krubbish_20
+    21300042: krubbish_21
+    21300044: krubbish_22
+    21300046: krubbish_23
+    21300048: krubbish_24
+    21300050: krubbish_25
+    21300052: krubbish_26
+    21300054: krubbish_27
+    21300056: krubbish_28
+    21300058: krubbish_29
+    21300060: krubbish_30
+    21300062: krubbish_31
+    21300064: krubbish_32
+    21300066: krubbish_33
+    21300068: krubbish_34
+    21300070: krubbish_35
+    21300072: krubbish_36
+    21300074: krubbish_37
+    21300076: krubbish_38
+    21300078: krubbish_39
+    21300080: krubbish_40
+    21300082: krubbish_41
+    21300084: krubbish_42
+    21300086: krubbish_43
+    21300088: krubbish_44
+    21300090: krubbish_45
+    21300092: krubbish_46
+    21300094: krubbish_47
+    21300096: krubbish_48
+    21300098: krubbish_49
+    21300100: krubbish_50
+    21300102: krubbish_51
+    21300104: krubbish_52
+    21300106: krubbish_53
+    21300108: krubbish_54
+    21300110: krubbish_55
+    21300112: krubbish_56
+    21300114: krubbish_57
+    21300116: krubbish_58
+    21300118: krubbish_59
+    21300120: krubbish_60
+    21300122: krubbish_61
+    21300124: krubbish_62
+    21300126: krubbish_63
+    21300128: krubbish_64
+    21300130: krubbish_65
+    21300132: krubbish_66
+    21300134: krubbish_67
+    21300136: krubbish_68
+    21300138: krubbish_69
+    21300140: krubbish_70
+    21300142: krubbish_71
+    21300144: krubbish_72
+    21300146: krubbish_73
+    21300148: krubbish_74
+    21300150: krubbish_75
+    21300152: krubbish_76
+    21300154: krubbish_77
+    21300156: krubbish_78
+    21300158: krubbish_79
+    21300160: krubbish_80
+    21300162: krubbish_81
+    21300164: krubbish_82
+    21300166: krubbish_83
+    21300168: krubbish_84
+    21300170: krubbish_85
+    21300172: krubbish_86
+    21300174: krubbish_87
+    21300176: krubbish_88
+    21300178: krubbish_89
+    21300180: krubbish_90
+    21300182: krubbish_91
+    21300184: krubbish_92
+    21300186: krubbish_93
+    21300188: krubbish_94
+    21300190: krubbish_95
+    21300192: krubbish_96
+    21300194: krubbish_97
+    21300196: krubbish_98
+    21300198: krubbish_99
+    21300200: krubbish_100
+    21300202: krubbish_101
+    21300204: krubbish_102
+    21300206: krubbish_103
+    21300208: krubbish_104
+    21300210: krubbish_105
+    21300212: krubbish_106
+    21300214: krubbish_107
+    21300216: krubbish_108
+    21300218: krubbish_109
+    21300220: krubbish_110
+    21300222: krubbish_111
+    21300224: krubbish_112
+    21300226: krubbish_113
+    21300228: krubbish_114
+    21300230: krubbish_115
+    21300232: krubbish_116
+    21300234: krubbish_117
+    21300236: krubbish_118
+    21300238: krubbish_119
+    21300240: krubbish_120
+    21300242: krubbish_121
+    21300244: krubbish_122
+    21300246: krubbish_123
+    21300248: krubbish_124
+    21300250: krubbish_125
+    21300252: krubbish_126
+    21300254: krubbish_127
+    21300256: krubbish_128
+    21300258: krubbish_129
+    21300260: krubbish_130
+    21300262: krubbish_131
+    21300264: krubbish_132
+    21300266: krubbish_133
+    21300268: krubbish_134
+    21300270: krubbish_135
+    21300272: krubbish_136
+    21300274: krubbish_137
+    21300276: krubbish_138
+    21300278: krubbish_139
+    21300280: krubbish_140
+    21300282: krubbish_141
+    21300284: krubbish_142
+    21300286: krubbish_143
+    21300288: krubbish_144
+    21300290: krubbish_145
+    21300292: krubbish_146
+    21300294: krubbish_147
+    21300296: krubbish_148
+    21300298: krubbish_149
+    21300300: krubbish_150
+    21300302: krubbish_151
+    21300304: krubbish_152
+    21300306: krubbish_153
+    21300308: krubbish_154
+    21300310: krubbish_155
+    21300312: krubbish_156
+    21300314: krubbish_157
+    21300316: krubbish_158
+    21300318: krubbish_159
+    21300320: krubbish_160
+    21300322: krubbish_161
+    21300324: krubbish_162
+    21300326: krubbish_163
+    21300328: krubbish_164
+    21300330: krubbish_165
+    21300332: krubbish_166
+    21300334: krubbish_167
+    21300336: krubbish_168
+    21300338: krubbish_169
+    21300340: krubbish_170
+    21300342: krubbish_171
+    21300344: krubbish_172
+    21300346: krubbish_173
+    21300348: krubbish_174
+    21300350: krubbish_175
+    21300352: krubbish_176
+    21300354: krubbish_177
+    21300356: krubbish_178
+    21300358: krubbish_179
+    21300360: krubbish_180
+    21300362: krubbish_181
+    21300364: krubbish_182
+    21300366: krubbish_183
+    21300368: krubbish_184
+    21300370: krubbish_185
+    21300372: krubbish_186
+    21300374: krubbish_187
+    21300376: krubbish_188
+    21300378: krubbish_189
+    21300380: krubbish_190
+    21300382: krubbish_191
+    21300384: krubbish_192
+    21300386: krubbish_193
+    21300388: krubbish_194
+    21300390: krubbish_195
+    21300392: krubbish_196
+    21300394: krubbish_197
+    21300396: krubbish_198
+    21300398: krubbish_199
+    21300400: krubbish_200
+    21300402: krubbish_201
+    21300404: krubbish_202
+    21300406: krubbish_203
+    21300408: krubbish_204
+    21300410: krubbish_205
+    21300412: krubbish_206
+    21300414: krubbish_207
+    21300416: krubbish_208
+    21300418: krubbish_209
+    21300420: krubbish_210
+    21300422: krubbish_211
+    21300424: krubbish_212
+    21300426: krubbish_213
+    21300428: krubbish_214
+    21300430: krubbish_215
+    21300432: krubbish_216
+    21300434: krubbish_217
+    21300436: krubbish_218
+    21300438: krubbish_219
+    21300440: krubbish_220
+    21300442: krubbish_221
+    21300444: krubbish_222
+    21300446: krubbish_223
+    21300448: krubbish_224
+    21300450: krubbish_225
+    21300452: krubbish_226
+    21300454: krubbish_227
+    21300456: krubbish_228
+    21300458: krubbish_229
+    21300460: krubbish_230
+    21300462: krubbish_231
+    21300464: krubbish_232
+    21300466: krubbish_233
+    21300468: krubbish_234
+    21300470: krubbish_235
+    21300472: krubbish_236
+    21300474: krubbish_237
+    21300476: krubbish_238
+    21300478: krubbish_239
+    21300480: krubbish_240
+    21300482: krubbish_241
+    21300484: krubbish_242
+    21300486: krubbish_243
+    21300488: krubbish_244
+    21300490: krubbish_245
+    21300492: krubbish_246
+    21300494: krubbish_247
+    21300496: krubbish_248
+    21300498: krubbish_249
+    21300500: krubbish_250
+    21300502: krubbish_251
+    21300504: krubbish_252
+    21300506: krubbish_253
+    21300508: krubbish_254
+    21300510: krubbish_255
+    21300512: krubbish_256
+    21300514: krubbish_257
+    21300516: krubbish_258
+    21300518: krubbish_259
+    21300520: krubbish_260
+    21300522: krubbish_261
+    21300524: krubbish_262
+    21300526: krubbish_263
+    21300528: krubbish_264
+    21300530: krubbish_265
+    21300532: krubbish_266
+    21300534: krubbish_267
+    21300536: krubbish_268
+    21300538: krubbish_269
+    21300540: krubbish_270
+    21300542: krubbish_271
+    21300544: krubbish_272
+    21300546: krubbish_273
+    21300548: krubbish_274
+    21300550: krubbish_275
+    21300552: krubbish_276
+    21300554: krubbish_277
+    21300556: krubbish_278
+    21300558: krubbish_279
+    21300560: krubbish_280
+    21300562: krubbish_281
+    21300564: krubbish_282
+    21300566: krubbish_283
+    21300568: krubbish_284
+    21300570: krubbish_285
+    21300572: krubbish_286
+    21300574: krubbish_287
+    21300576: krubbish_288
+    21300578: krubbish_289
+    21300580: krubbish_290
+    21300582: krubbish_291
+    21300584: krubbish_292
+    21300586: krubbish_293
+    21300588: krubbish_294
+    21300590: krubbish_295
+    21300592: krubbish_296
+    21300594: krubbish_297
+    21300596: krubbish_298
+    21300598: krubbish_299
+    21300600: krubbish_300
+    21300602: krubbish_301
+    21300604: krubbish_302
+    21300606: krubbish_303
+    21300608: krubbish_304
+    21300610: krubbish_305
+    21300612: krubbish_306
+    21300614: krubbish_307
+    21300616: krubbish_308
+    21300618: krubbish_309
+    21300620: krubbish_310
+    21300622: krubbish_311
+    21300624: krubbish_312
+    21300626: krubbish_313
+    21300628: krubbish_314
+    21300630: krubbish_315
+    21300632: krubbish_316
+    21300634: krubbish_317
+    21300636: krubbish_318
+    21300638: krubbish_319
+    21300640: krubbish_320
+    21300642: krubbish_321
+    21300644: krubbish_322
+    21300646: krubbish_323
+    21300648: krubbish_324
+    21300650: krubbish_325
+    21300652: krubbish_326
+    21300654: krubbish_327
+    21300656: krubbish_328
+    21300658: krubbish_329
+    21300660: krubbish_330
+    21300662: krubbish_331
+    21300664: krubbish_332
+    21300666: krubbish_333
+    21300668: krubbish_334
+    21300670: krubbish_335
+    21300672: krubbish_336
+    21300674: krubbish_337
+    21300676: krubbish_338
+    21300678: krubbish_339
+    21300680: krubbish_340
+    21300682: krubbish_341
+    21300684: krubbish_342
+    21300686: krubbish_343
+    21300688: krubbish_344
+    21300690: krubbish_345
+    21300692: krubbish_346
+    21300694: krubbish_347
+    21300696: krubbish_348
+    21300698: krubbish_349
+    21300700: krubbish_350
+    21300702: krubbish_351
+    21300704: krubbish_352
+    21300706: krubbish_353
+    21300708: krubbish_354
+    21300710: krubbish_355
+    21300712: krubbish_356
+    21300714: krubbish_357
+    21300716: krubbish_358
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: krubbish_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5152
+        width: 50
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5152
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5152
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5152
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5152
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 5152
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 5152
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_7
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5152
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 5152
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5152
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_10
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 5152
+        width: 48
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_11
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 5152
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5055
+        width: 50
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5055
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5055
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5055
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5055
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 5055
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 5055
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5055
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_20
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 5055
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5055
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 5055
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 5055
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4960
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4960
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4960
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4960
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4960
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4960
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4960
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_31
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4960
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4960
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4960
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_34
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4960
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_35
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4960
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4865
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4865
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4865
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4865
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_40
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4865
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_41
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4865
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_42
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4865
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4865
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_44
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4865
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4865
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_46
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4865
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_47
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4865
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4770
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4770
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4770
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4770
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4770
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_53
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4770
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_54
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4770
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_55
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4770
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_56
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4770
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4770
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_58
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4770
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_59
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4770
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4675
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4675
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4675
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4675
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4675
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_65
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4675
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4675
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_67
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4675
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4675
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4675
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4675
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_71
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4675
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4580
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4580
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4580
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4580
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4580
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_77
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4580
+        width: 48
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_78
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4580
+        width: 48
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_79
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4580
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_80
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4580
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4580
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_82
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4580
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4580
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4486
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4486
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_86
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4486
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_87
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4486
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4486
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4486
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_90
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4486
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_91
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4486
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_92
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4486
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4486
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_94
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4486
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_95
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4486
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4391
+        width: 49
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4391
+        width: 51
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4391
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_99
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4391
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4391
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4391
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_102
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4391
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_103
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4391
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_104
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4391
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4391
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_106
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4391
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_107
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4391
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4296
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4296
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_110
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4296
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_111
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4296
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_112
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4296
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_113
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4296
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_114
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4296
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_115
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4296
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_116
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4296
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4296
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_118
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4296
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_119
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4296
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4201
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4201
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_122
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4201
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_123
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4201
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 4201
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_125
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4201
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_126
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4201
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_127
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4201
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_128
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4201
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4201
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_130
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4201
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_131
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4201
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_132
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4106
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4106
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_134
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4106
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_135
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4106
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_136
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4106
+        width: 50
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_137
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4106
+        width: 48
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_138
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4106
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_139
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4106
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_140
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4106
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_141
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4106
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_142
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4106
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_143
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4106
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4012
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_145
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4012
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_146
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4012
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_147
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4012
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_148
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4012
+        width: 50
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_149
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4012
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_150
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4012
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_151
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4012
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_152
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 4012
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_153
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4012
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_154
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4012
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_155
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 4012
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3917
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3917
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_158
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3917
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_159
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3917
+        width: 49
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_160
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3917
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_161
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3917
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_162
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3917
+        width: 48
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_163
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3917
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_164
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3917
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3917
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_166
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 3917
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_167
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3917
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_168
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3821
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_169
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3820
+        width: 51
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_170
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3821
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_171
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3820
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_172
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3821
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_173
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3821
+        width: 48
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_174
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3820
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_175
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3821
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_176
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3820
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_177
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3821
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_178
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3821
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_179
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3820
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3725
+        width: 49
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_181
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3725
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_182
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3630
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3535
+        width: 50
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_184
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3535
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_185
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3535
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_186
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3440
+        width: 50
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3440
+        width: 49
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_188
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3440
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_189
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3345
+        width: 50
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_190
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3345
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_191
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3345
+        width: 59
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_192
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3251
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_193
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3251
+        width: 62
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_194
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3156
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_195
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3156
+        width: 62
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_196
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3156
+        width: 62
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_197
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3156
+        width: 64
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_198
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3156
+        width: 62
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_199
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3061
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_200
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3061
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_201
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3061
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_202
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3061
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_203
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2966
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_204
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2966
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_205
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2966
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_206
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2871
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_207
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2871
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_208
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2871
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_209
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2871
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_210
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2871
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_211
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2871
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_212
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2871
+        width: 46
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_213
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2871
+        width: 46
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_214
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2871
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_215
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2871
+        width: 46
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_216
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2871
+        width: 46
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_217
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2871
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_218
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2776
+        width: 47
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_219
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2776
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_220
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2776
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_221
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2682
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_222
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2682
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_223
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2682
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_224
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2682
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_225
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2682
+        width: 48
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_226
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2682
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_227
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2682
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_228
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2587
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_229
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2587
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_230
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2587
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_231
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2490
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_232
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2490
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_233
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2490
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_234
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2490
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_235
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2490
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_236
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2490
+        width: 53
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_237
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2490
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_238
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2490
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_239
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2490
+        width: 56
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_240
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2490
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_241
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2490
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_242
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2490
+        width: 57
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_243
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2395
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_244
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2300
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_245
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2300
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_246
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2300
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_247
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2300
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_248
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2300
+        width: 48
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_249
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2300
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_250
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2300
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_251
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2205
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_252
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2205
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_253
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2205
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_254
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2110
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_255
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2110
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_256
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2110
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_257
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2110
+        width: 52
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_258
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2110
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_259
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2110
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_260
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2110
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_261
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2110
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_262
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2110
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_263
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2110
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_264
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2110
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_265
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2110
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_266
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2015
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_267
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1921
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_268
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1921
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_269
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1921
+        width: 49
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_270
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1921
+        width: 52
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_271
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1921
+        width: 48
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_272
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1921
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_273
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1921
+        width: 49
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_274
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1826
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_275
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1826
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_276
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1826
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_277
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1826
+        width: 50
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_278
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1826
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_279
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1731
+        width: 49
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_280
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1731
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_281
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1731
+        width: 59
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_282
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1731
+        width: 64
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_283
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1636
+        width: 61
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_284
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1636
+        width: 64
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_285
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1541
+        width: 61
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_286
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1541
+        width: 67
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_287
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1541
+        width: 65
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_288
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1541
+        width: 64
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_289
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1541
+        width: 62
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_290
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1541
+        width: 64
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_291
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1541
+        width: 64
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_292
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1447
+        width: 61
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_293
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1447
+        width: 64
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_294
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1447
+        width: 65
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_295
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1447
+        width: 67
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_296
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1447
+        width: 64
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_297
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1447
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_298
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1447
+        width: 66
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_299
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1352
+        width: 61
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_300
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1352
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_301
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1352
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_302
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1352
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_303
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1352
+        width: 50
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_304
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 970
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_305
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 970
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_306
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 970
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_307
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 970
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_308
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 875
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_309
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 875
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_310
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 875
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_311
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 875
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_312
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 780
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_313
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 780
+        width: 51
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_314
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 780
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_315
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 780
+        width: 52
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_316
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 685
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_317
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 685
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_318
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 685
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_319
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 685
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_320
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 685
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_321
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 685
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_322
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 591
+        width: 47
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_323
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 591
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_324
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 591
+        width: 49
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_325
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 591
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_326
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 591
+        width: 46
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_327
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 591
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_328
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 496
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_329
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 496
+        width: 54
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_330
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 496
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_331
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 496
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_332
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 496
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_333
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 496
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_334
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 401
+        width: 54
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_335
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 401
+        width: 54
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_336
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 401
+        width: 54
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_337
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 401
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_338
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 401
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_339
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 401
+        width: 56
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_340
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 51
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_341
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 306
+        width: 54
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_342
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 306
+        width: 52
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_343
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 306
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_344
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 306
+        width: 52
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_345
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 306
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_346
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 211
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_347
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 211
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_348
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 211
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_349
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 211
+        width: 51
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_350
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 211
+        width: 50
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_351
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 211
+        width: 51
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_352
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 117
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_353
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 117
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_354
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_355
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 117
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_356
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 117
+        width: 49
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_357
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 117
+        width: 48
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krubbish_358
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 22
+        width: 59
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
